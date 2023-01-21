@@ -2,4 +2,4 @@
 
 def lambda_handler(event,context):
 	print("here")
-	print("tsts")
+	print("Verisk wokshop!")
